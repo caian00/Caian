@@ -1,0 +1,17 @@
+[
+  {"Representante":"Ana Silva","Produto":"Analgésico X","Grupo_Bandeira":"Rede Saúde+","CNPJ":"12.345.678/0001-01","Endereço":"Av. Paulista, 1000 - São Paulo/SP","Março":42000,"Abril":45500,"Dif_Abr_vs_Mar":3500},
+  {"Representante":"Ana Silva","Produto":"Vitamina C","Grupo_Bandeira":"Drogaria Bem Estar","CNPJ":"22.456.789/0001-02","Endereço":"Rua Augusta, 210 - São Paulo/SP","Março":38000,"Abril":36000,"Dif_Abr_vs_Mar":-2000},
+  {"Representante":"Ana Silva","Produto":"Antigripal Z","Grupo_Bandeira":"Rede Saúde+","CNPJ":"33.567.890/0001-03","Endereço":"Rua Vergueiro, 550 - São Paulo/SP","Março":27000,"Abril":31500,"Dif_Abr_vs_Mar":4500},
+  {"Representante":"Ana Silva","Produto":"Dermocosmético A","Grupo_Bandeira":"Farma Premium","CNPJ":"44.678.901/0001-04","Endereço":"Av. Rebouças, 80 - São Paulo/SP","Março":31000,"Abril":29800,"Dif_Abr_vs_Mar":-1200},
+  {"Representante":"Ana Silva","Produto":"Analgésico X","Grupo_Bandeira":"Drogaria Bem Estar","CNPJ":"55.789.012/0001-05","Endereço":"Rua Haddock Lobo, 44 - São Paulo/SP","Março":19500,"Abril":24900,"Dif_Abr_vs_Mar":5400},
+  {"Representante":"Bruno Costa","Produto":"Analgésico X","Grupo_Bandeira":"Rede Vida Farma","CNPJ":"66.890.123/0001-06","Endereço":"Av. Sete de Setembro, 780 - Curitiba/PR","Março":35000,"Abril":37200,"Dif_Abr_vs_Mar":2200},
+  {"Representante":"Bruno Costa","Produto":"Vitamina C","Grupo_Bandeira":"Farma Popular","CNPJ":"77.901.234/0001-07","Endereço":"Rua XV de Novembro, 150 - Curitiba/PR","Março":28000,"Abril":26100,"Dif_Abr_vs_Mar":-1900},
+  {"Representante":"Bruno Costa","Produto":"Antialérgico Y","Grupo_Bandeira":"Rede Vida Farma","CNPJ":"88.012.345/0001-08","Endereço":"Rua Padre Anchieta, 320 - Curitiba/PR","Março":22000,"Abril":25900,"Dif_Abr_vs_Mar":3900},
+  {"Representante":"Bruno Costa","Produto":"Dermocosmético A","Grupo_Bandeira":"Farma Popular","CNPJ":"99.123.456/0001-09","Endereço":"Av. Iguaçu, 910 - Curitiba/PR","Março":30500,"Abril":28700,"Dif_Abr_vs_Mar":-1800},
+  {"Representante":"Bruno Costa","Produto":"Antigripal Z","Grupo_Bandeira":"Max Farma","CNPJ":"10.234.567/0001-10","Endereço":"Rua Chile, 72 - Curitiba/PR","Março":26000,"Abril":30100,"Dif_Abr_vs_Mar":4100},
+  {"Representante":"Carla Mendes","Produto":"Vitamina C","Grupo_Bandeira":"Rede Norte Farma","CNPJ":"11.345.678/0001-11","Endereço":"Av. Djalma Batista, 1200 - Manaus/AM","Março":33000,"Abril":34500,"Dif_Abr_vs_Mar":1500},
+  {"Representante":"Carla Mendes","Produto":"Analgésico X","Grupo_Bandeira":"Farma Manaus","CNPJ":"12.456.789/0001-12","Endereço":"Rua Recife, 300 - Manaus/AM","Março":24800,"Abril":23100,"Dif_Abr_vs_Mar":-1700},
+  {"Representante":"Carla Mendes","Produto":"Antigripal Z","Grupo_Bandeira":"Rede Norte Farma","CNPJ":"13.567.890/0001-13","Endereço":"Av. Constantino Nery, 870 - Manaus/AM","Março":29500,"Abril":35200,"Dif_Abr_vs_Mar":5700},
+  {"Representante":"Carla Mendes","Produto":"Dermocosmético A","Grupo_Bandeira":"Farma Manaus","CNPJ":"14.678.901/0001-14","Endereço":"Rua Paraíba, 150 - Manaus/AM","Março":21000,"Abril":20400,"Dif_Abr_vs_Mar":-600},
+  {"Representante":"Carla Mendes","Produto":"Antialérgico Y","Grupo_Bandeira":"Top Farma","CNPJ":"15.789.012/0001-15","Endereço":"Av. André Araújo, 650 - Manaus/AM","Março":18000,"Abril":22600,"Dif_Abr_vs_Mar":4600}
+]
